@@ -355,7 +355,7 @@ function echarts_6() {
             }
         }, {
             name: '02',
-            value: 21//要改的
+            value: 20//要改的
         }]
 
     }]
