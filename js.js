@@ -355,7 +355,7 @@ function echarts_6() {
             }
         }, {
             name: '02',
-            value: 20
+            value: 21//要改的
         }]
 
     }]
@@ -497,7 +497,7 @@ option = {
                     name: '胃肠道疾病'
                 },
                 {
-                    value: 21,
+                    value: 20,
                     name: '呼吸道疾病'
                 },
                 {
