@@ -497,7 +497,7 @@ option = {
                     name: '胃肠道疾病'
                 },
                 {
-                    value: 20,
+                    value: 21,
                     name: '呼吸道疾病'
                 },
                 {
